@@ -1,0 +1,17 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  Font
+}
+
+.header {
+  text-align: center;
+}
+
+hr {
+  height: 2px; 
+  background-color: #333;
+}
+
+.jobtitle {
+  font-weight: bold;
+}
